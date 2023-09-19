@@ -1,0 +1,3 @@
+[submodule "SIH_backend"]
+	path = SIH_backend
+	url = https://github.com/Archit-pandey25/SIH_backend.git
