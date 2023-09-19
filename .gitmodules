@@ -1,3 +1,6 @@
 [submodule "SIH_backend"]
 	path = SIH_backend
 	url = https://github.com/Archit-pandey25/SIH_backend.git
+[submodule "SIH_frontend"]
+	path = SIH_frontend
+	url = https://github.com/PulkitChikara/SIH_frontend.git
